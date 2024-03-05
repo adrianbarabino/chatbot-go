@@ -35,7 +35,6 @@ Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-// Adrian Barabino adrianbarabino@brote.org
 
 [Adrian Barabino / BROTE Servicios](https://brote.org)
 Correo electrónico:
